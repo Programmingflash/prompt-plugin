@@ -1,0 +1,16 @@
+{
+  "name": "prompt-tools",
+  "owner": {
+    "name": "Nikola Bulatovic"
+  },
+  "metadata": {
+    "description": "Prompt engineering tools for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "prompt",
+      "source": "./",
+      "description": "Craft optimized prompts through adaptive questioning and prompt engineering best practices"
+    }
+  ]
+}
